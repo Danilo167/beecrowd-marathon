@@ -1,5 +1,4 @@
 package Parte_1000_1999.P1001;
-
 import java.util.Scanner;
 
 public class Main {
